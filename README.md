@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Welcome to my GitHub page! 
+
+- 🏞️ I'm currently working on Sierra, a next generation terrain generator for Minecraft!
+- 🌱 I'm currently learning Kotlin and some languages I need while developing other programs!
+- 📫 How to reach me: Discord (Matty#5080)
+
 <!--
 **PolyRocketMatt/PolyRocketMatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
