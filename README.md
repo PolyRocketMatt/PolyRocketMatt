@@ -6,10 +6,11 @@ generation for Minecraft!<br/>
 **Languages**: <br/>
 - Java
 - Kotlin
+- Python
 - *other* C(#), Ruby, HTML, JavaScript, CSS
 
 **Editors/IDEs**: <br/>
-- Jetbrains IDE's (IntelliJ, RubyMine, WebStorm)
+- Jetbrains IDE's (IntelliJ, RubyMine, WebStorm, PyCharm)
 - Visual Studio Code
 - Visual Studio
 
