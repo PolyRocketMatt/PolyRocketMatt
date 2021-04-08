@@ -1,22 +1,17 @@
 ### Hi there 👋
 
-Welcome to my GitHub page! 
+Welcome to my profile!<br/>
+I'm 19 years old programmer based in little Belgium. I'm really interested in procedural terrain generation and graphical algorithms. Currently I'm working on Sierra, next generation terrain 
+generation for Minecraft!<br/>
+**Languages**: <br/>
+- Java
+- Kotlin
+- *other* C(#), Ruby, HTML, JavaScript, CSS
 
-- 🏞️ I'm currently working on Sierra, a next generation terrain generator for Minecraft!
-- 🌱 I'm currently learning Kotlin and some languages I need while developing other programs!
-- 📫 How to reach me: Discord (Matty#5080)
+**Editors/IDEs**: <br/>
+- Jetbrains IDE's (IntelliJ, RubyMine, WebStorm)
+- Visual Studio Code
+- Visual Studio
 
-<!--
-**PolyRocketMatt/PolyRocketMatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![PolyRocketMatt's GitHub stats](https://github-readme-stats.vercel.app/api?username=PolyRocketMatt&show_icons=true&theme=gruvbox)](https://github.com/PolyRocketMatt)<br/>
+[![PolyRocketMatt's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PolyRocketMatt&langs_count=8&theme=gruvbox)](https://github.com/PolyRocketMatt/repositories)
