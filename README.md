@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Welcome to my profile!<br/>
-I'm 20 years old programmer based in little Belgium. I'm really interested in procedural terrain generation and graphical algorithms. Currently I'm working on Sierra, which is a next generation terrain generator for Minecraft!<br/>
+I'm 20 years old programmer based in little Belgium.Currently I'm enrolled for a bachelor's degree in computer science at the Catholic University of Leuven.<br/>
 **Languages**: <br/>
 - Java
 - Kotlin
