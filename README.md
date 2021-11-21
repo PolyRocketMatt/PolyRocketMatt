@@ -1,18 +1,20 @@
-### Hi there 👋
+<h1> Hi there <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246 blob-sunglasses.gif?1531849430" width="30"/></h1>
 
-Welcome to my profile!<br/>
-I'm 19 years old programmer based in little Belgium. I'm really interested in procedural terrain generation and graphical algorithms. Currently I'm working on Sierra, next generation terrain 
-generation for Minecraft!<br/>
-**Languages**: <br/>
+Hey there! I'm Matthias Kovacic, 20 years old from Belgium. Currently I'm still enrolled as a student at the Catcholic University of Leuven for a bachelor/master degree in Computer Science (grad. 2024).
+
+**Interests**:
+
+- Procedural Generation (in particular terrain generation)
+- Computer graphics
+- Programming Languages
+
+**Languages**:
+
 - Java
 - Kotlin
 - Python
 - *other* C(#), Ruby, HTML, JavaScript, CSS
 
-**Editors/IDEs**: <br/>
-- Jetbrains IDE's (IntelliJ, RubyMine, WebStorm, PyCharm)
-- Visual Studio Code
-- Visual Studio
+[![PolyRocketMatt's GitHub stats](https://github-readme-stats.vercel.app/api?username=PolyRocketMatt&show_icons=true&theme=gruvbox)](https://github.com/PolyRocketMatt)</br>
 
-[![PolyRocketMatt's GitHub stats](https://github-readme-stats.vercel.app/api?username=PolyRocketMatt&show_icons=true&theme=gruvbox)](https://github.com/PolyRocketMatt)<br/>
 [![PolyRocketMatt's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PolyRocketMatt&langs_count=8&theme=gruvbox)](https://github.com/PolyRocketMatt/repositories)
