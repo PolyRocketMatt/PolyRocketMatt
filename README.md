@@ -1,4 +1,4 @@
-<h1> Hey there! Nice to see you! <img src="https://emojis.slackmojis.com/emojis/images/1588108737/8790/fb-pride.png?1588108737" width="30"/></h1>
+<h1> Hey there! Nice to see you! <img src="https://emojis.slackmojis.com/emojis/images/1588108737/8790/fb-pride.png?1588108737" width="30"/> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
 Hey there! I'm Matthias Kovacic, 20 years old from Belgium. Currently I'm still enrolled as a student at the Catcholic University of Leuven for a bachelor/master degree in Computer Science (grad. 2024).
 
