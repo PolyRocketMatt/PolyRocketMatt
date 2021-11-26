@@ -12,7 +12,7 @@
 - Computer graphics
 - Programming Languages & Computational Geometry
 
-** 🧗 **Hobbies**:
+## 🧗 **Hobbies**:
 
 - 🧗 Climbing
 - 🏔️ Landscapes
