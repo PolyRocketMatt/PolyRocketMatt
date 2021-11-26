@@ -16,5 +16,3 @@ Hey there! I'm Matthias Kovacic, 20 years old from Belgium. Currently I'm still 
 - *other* C(#), Ruby, HTML, JavaScript, CSS
 
 [![PolyRocketMatt's GitHub stats](https://github-readme-stats.vercel.app/api?username=PolyRocketMatt&show_icons=true&theme=gruvbox)](https://github.com/PolyRocketMatt)</br>
-
-[![PolyRocketMatt's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PolyRocketMatt&langs_count=8&theme=gruvbox)](https://github.com/PolyRocketMatt/repositories)
