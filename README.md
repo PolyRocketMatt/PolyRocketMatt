@@ -26,3 +26,9 @@
 - *OS*: Linux, Windows
 
 ![PolyRocketMatt's GitHub stats](https://github-readme-stats.vercel.app/api?username=PolyRocketMatt&theme=vue&show_icons=true)
+
+---
+
+<p align="center">
+    Made with ❤️ in <b>Leuven</b>.
+</p>
