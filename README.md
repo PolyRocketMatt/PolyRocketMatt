@@ -18,6 +18,8 @@
 - 🏔️ Landscapes
 - 🌍 Traveling
 - 🎶 Music
+- 🎢 Rollercoasters & Amusement/Themeparks
+- 🌌 Stargazing
 
 ## 🖥️ **Experience**:
 
