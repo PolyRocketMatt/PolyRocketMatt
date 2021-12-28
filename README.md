@@ -16,10 +16,11 @@
 
 - 🧗 Climbing
 - 🏔️ Landscapes
-- 🌍 Traveling
+- 🛩️Traveling
 - 🎶 Music
 - 🎢 Rollercoasters & Amusement/Themeparks
 - 🌌 Stargazing
+- 🌍 Open-World Enthusiast
 
 ## 🖥️ **Experience**:
 
