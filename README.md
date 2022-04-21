@@ -3,14 +3,14 @@
 ## 📖 **About me**
 - Located in Belgium
 - Enrolled at the Catcholic University of Leuven for a Bachelor/Master degree in Computer Science
-- I love landscapes and adventures!
+- I love nature and going on an adventure!
 - I'm definitely a 🌑🦉
 
-## 👀 **Interests (Programming related)**:
+## 👀 **Interests (CS related)**:
 
 - Procedural Generation (in particular terrain generation)
 - Computer graphics
-- Programming Languages & Computational Geometry
+- Programming Languages (compiler stuff) & Computational Geometry
 
 ## 🧗 **Hobbies**:
 
