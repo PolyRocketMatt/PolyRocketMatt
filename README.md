@@ -2,7 +2,7 @@
 
 ## 📖 **About me**
 - Located in Belgium
-- Enrolled at the Catcholic University of Leuven for a Bachelor/Master degree in Computer Science
+- Enrolled at the Catcholic University of Leuven for a Master degree in Computer Science
 - I love nature and going on an adventure!
 - I'm definitely a 🌑🦉
 
