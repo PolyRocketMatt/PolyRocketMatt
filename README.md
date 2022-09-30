@@ -24,9 +24,10 @@
 
 ## 🖥️ **Experience**:
 
-- *Languages*: Kotlin & Java, Python, C(#), Javascript/Typescript, HTML/CSS
+- *Languages*: Kotlin & Java, Python, C(#)(++), Javascript/Typescript, HTML/CSS
 - *Databases*: SQL, MongoDB
 - *OS*: Linux, Windows
+- *Experience With*: Gradle, Maven
 
 ![PolyRocketMatt's GitHub stats](https://github-readme-stats.vercel.app/api?username=PolyRocketMatt&theme=vue&show_icons=true)
 
