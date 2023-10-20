@@ -1,23 +1,21 @@
 <h1> Hey there, nice to see you! <img src="https://emojis.slackmojis.com/emojis/images/1588108737/8790/fb-pride.png?1588108737" width="30"/> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
-## 📖 **About me**
-- Located in Belgium
-- Enrolled at the Catcholic University of Leuven for a Master degree in Computer Science
-- I love nature and going on an adventure!
-- I'm definitely a 🌑🦉
+## 📖 **Information**
+- Leuven, Belgium
+- Student - Master degree in Computer Science (Catholic University Leuven)
 
 ## 👀 **Interests (CS related)**:
 
 - Procedural Generation (in particular terrain generation)
 - Computer graphics
-- Programming Languages (compiler stuff) & Computational Geometry
+- Programming Languages (compilers & interpreters) & Computational Geometry
 
-## 🧗 **Hobbies**:
+## 🧗 **General Interests**:
 
-- 🧗 Climbing
+- 🧗 Extreme Sports
 - 🏔️ Landscapes
 - 🛩️Traveling
-- 🎶 Music
+- 🎶 Music (Making)
 - 🎢 Rollercoasters & Amusement/Themeparks
 - 🌌 Stargazing
 - 🌍 Open-World Enthusiast
