@@ -2,7 +2,7 @@
 
 ## 📖 **Information**
 - Leuven, Belgium
-- Student - Master degree in Computer Science (Catholic University Leuven)
+- Student - Master degree in Computer Science with specialistion in Computer Graphics (HCI) (Catholic University Leuven)
 
 ## 👀 **Interests (CS related)**:
 
