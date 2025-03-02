@@ -2,13 +2,18 @@
 
 ## 📖 **Information**
 - Leuven, Belgium
-- Student - Master degree in Computer Science with specialistion in Computer Graphics (HCI) (Catholic University Leuven)
+- Master degree in Computer Science with specialistion in Computer Graphics (HCI)
+- Currently enrolled in the Master of Bioinformatics
 
 ## 👀 **Interests (CS related)**:
 
-- Procedural Generation (in particular terrain generation)
+- Procedural generation (in particular terrain generation)
 - Computer graphics
-- Programming Languages (compilers & interpreters) & Computational Geometry
+- Programming Languages (compilers & interpreters) & computational geometry
+- Numerical computation, simulation and optimization
+- Probability theory, Bayesian inference
+- Protein folding
+- Genomic analysis
 
 ## 🧗 **General Interests**:
 
