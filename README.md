@@ -9,9 +9,9 @@
 
 - Procedural generation (in particular terrain generation)
 - Computer graphics
-- Programming Languages (compilers & interpreters) & computational geometry
-- Numerical computation, simulation and optimization
+- Numerical computation, computational geometry, simulation and optimization
 - Probability theory, Bayesian inference
+- Programming Languages (compilers & interpreters)
 - Protein folding
 - Genomic analysis
 
@@ -19,7 +19,7 @@
 
 - 🧗 Extreme Sports
 - 🏔️ Landscapes
-- 🛩️Traveling
+- 🛩️ Traveling
 - 🎶 Music (Making)
 - 🎢 Rollercoasters & Amusement/Themeparks
 - 🌌 Stargazing
@@ -31,8 +31,6 @@
 - *Databases*: SQL, MongoDB
 - *OS*: Linux, Windows
 - *Experience With*: Gradle, Maven
-
-![PolyRocketMatt's GitHub stats](https://github-readme-stats.vercel.app/api?username=PolyRocketMatt&theme=vue&show_icons=true)
 
 ---
 
