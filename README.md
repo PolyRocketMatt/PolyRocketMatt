@@ -11,9 +11,9 @@
 - Computer graphics
 - Numerical computation, computational geometry, simulation and optimization
 - Probability theory, Bayesian inference
-- Programming Languages (compilers & interpreters)
 - Protein folding
-- Genomic analysis
+- Computational biology
+- Computational Neuroscience
 
 ## 🧗 **General Interests**:
 
