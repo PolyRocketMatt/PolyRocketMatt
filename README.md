@@ -6,7 +6,7 @@
 - Master degree in Computer Science with specialistion in Computer Graphics (HCI)
 - Currently enrolled in the Master of Bioinformatics
 
-## 👀 **Interests (CS related)**:
+## 👀 **Interests**:
 
 - Procedural generation (in particular terrain generation)
 - Computer graphics
@@ -16,7 +16,7 @@
 - Computational biology & neuroscience
 - 
 
-## 🧗 **General Interests**:
+## 🧗 **Hobbies**:
 
 - 🧗 Extreme sports fan (climbing and what not)
 - 🏔️ Landscapes enthusiast
