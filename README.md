@@ -27,7 +27,3 @@
 - 🌍 Open-World Enthusiast
 
 ---
-
-<p align="center">
-    Made with ❤️ in <b>Leuven</b>.
-</p>
